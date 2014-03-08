@@ -1,0 +1,6 @@
+Para executar os programas:
+Baixar o Cuda SDK em https://developer.nvidia.com/cuda-downloads
+Baixar o NSIGHT, a IDE baseada no Eclipse para desenvolver e compilar os programas em https://developer.nvidia.com/nsight-eclipse-edition (provavelmente ele vem no CUDA SDK 5)
+
+A partir dai é só importar os projetos e fazer tudo por dentro do nsight.
+Se for compilar direto pelo terminal é preciso utilizar o nvcc (o compilador cuda). As flags são muito parecidas com o gcc.

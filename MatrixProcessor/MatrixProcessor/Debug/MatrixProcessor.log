@@ -1,0 +1,7 @@
+﻿  DocumentMatrixProcessor.cpp
+d:\desenv\proggpu_cuda\matrixprocessor\src\documentmatrixprocessor.cpp(10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  MatrixProcessor.vcxproj -> D:\desenv\proggpu_cuda\MatrixProcessor\Debug\MatrixProcessor.exe
+  copy "D:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\bin\cudart*.dll" "D:\desenv\proggpu_cuda\MatrixProcessor\Debug\"
+  D:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\bin\cudart32_50_35.dll
+  D:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\bin\cudart64_50_35.dll
+          2 file(s) copied.
